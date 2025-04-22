@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I’m Steven Miller
 
-<!--
-**stevencmiller/stevencmiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Educator | 📊 Data Scientist-in-Transition | 🧠 AI-Powered Learning Architect
 
-Here are some ideas to get you started:
+With a PhD in Education and 15+ years leading curriculum and systems-level innovation, I’m now applying data science and generative AI to solve real-world problems in education and beyond.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Current Focus:  
+- AI-Powered Personalized Learning MVP (True North Learning Model)  
+- Vertical Diagnostic Engine for Math & Literacy  
+- Cross-Curricular Compact Curriculum Framework  
+- Faith-aligned digital mentor & SEL platforms  
+- Portfolio projects in Python, SQL, and Streamlit
+
+💡 Vision: Create personalized, purpose-driven learning systems that are scalable, ethical, and transformational.
+
+🛠️ Skills & Tools:  
+Python • Pandas • Streamlit • Altair • SQL • scikit-learn • GPT-4 • Curriculum Design • Educational Leadership
+
+🌐 Let’s connect on LinkedIn or explore my current projects below.
+
+📘 “We’re not just solving for X. We’re helping students discover who they are.”
+
+#DataScience4Education #AIforGood #EdTechInnovation #FaithDrivenTech
